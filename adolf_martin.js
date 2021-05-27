@@ -4,8 +4,8 @@
 活动日期：2021-05-20 至 2021-05-31
 
 脚本默认不开通会员，默认不加购商品。
-环境变量 export ADOLF_ADDSKU="true"//执行加购任务
-环境变量 export ADOLF_MARTIN="true"//执行入会任务
+环境变量 export ADOLF_ADDSKU=true//执行加购任务
+环境变量 export ADOLF_MARTIN=true//执行入会任务
 
 更新地址：https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_martin.js
 ============Quantumultx===============
